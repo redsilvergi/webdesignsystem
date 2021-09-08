@@ -1,0 +1,95 @@
+body {
+    margin: 0 10%;
+}
+
+.colors {
+    border: solid darkslategray 1px;
+    padding: 10px;
+    display: block;
+}
+
+.red_sec {
+    background-color: #FF0000;
+    color: white;
+    width: 32%;
+    display: inline-block;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.blue_sec {
+    background-color: #0000FF;
+    color: white;
+    width: 32%;
+    display: inline-block;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.green_sec {
+    background-color: #00FF00;
+    color: black;
+    width: 32%;
+    display: inline-block;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.fonts {
+    border: solid darkslategray 1px;
+    padding: 10px;
+    display: block;
+    margin-top: 1.5%;
+}
+
+p.italic {
+    font-style: italic;
+}
+
+p.bold {
+    font-weight: bold;
+}
+
+p.underlined {
+    text-decoration: underline;
+}
+
+.homenaje_sec {
+    font-family: 'Homenaje', sans-serif;
+    display: inline-block;
+}
+
+.allison_sec {
+    font-family: 'Allison', cursive;
+    display: inline-block;
+    margin-left: 2%;
+}
+
+.zcool_kuaile_sec {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    display: inline-block;
+    margin-left: 2%;
+}
+
+.text_styles {
+    border: solid darkslategray 1px;
+    padding: 10px;
+    display: block;
+    margin-top: 1.5%;
+}
+
+.h1_style h3 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: "Times New Roman";
+}
+.h3_style h3 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Constantia;
+}
+.p_style h3 {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Constantia;
+}
